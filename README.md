@@ -24,6 +24,6 @@ Deployment: The web page is deployed on a free hosting service and is available 
 
 GitHub Repository: This repository contains the code for the web page, along with a README file that explains the project and its features.
 
-Author: [Suhani] (https://github.com/[Suhhanii])
+Author: [Suhani] (https://github.com/Suhhanii)
 
 License: This project is licensed under the MIT License.
